@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/167
     wikipedia: http://en.wikipedia.org/wiki/Bayard_Taylor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23166#Who-Was-She-From--The-Atlantic-Monthly--for-September-1874
 gutenberg_issued: '2007-10-24'
 gutenberg_type: Text
 identifiers:
