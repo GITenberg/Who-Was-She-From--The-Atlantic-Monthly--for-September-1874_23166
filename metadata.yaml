@@ -1,0 +1,33 @@
+_repo: Who-Was-She-From--The-Atlantic-Monthly--for-September-1874_23166
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taylor, Bayard
+    aliases:
+    - Taylor, James Bayard
+    - Taylor, J. B.
+    - Taylor, J.B.
+    birthdate: 1825
+    deathdate: 1878
+    gutenberg_agent_id: '167'
+    url: http://www.gutenberg.org/2009/agents/167
+    wikipedia: http://en.wikipedia.org/wiki/Bayard_Taylor
+description: ''
+gutenberg_issued: '2007-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23166'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: 'Who Was She?
+
+  From "The Atlantic Monthly" for September, 1874'
+url: http://www.gutenberg.org/ebooks/23166
